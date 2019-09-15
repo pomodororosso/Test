@@ -1,0 +1,10 @@
+*.suo
+.vs
+bin
+obj
+*.user
+packages
+Scripts
+fonts
+Content
+Properties
